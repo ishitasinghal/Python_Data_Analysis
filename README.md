@@ -1,3 +1,3 @@
 # Python_Data_Analysis
-This is just a simple data analysis project.
+These are just a few simple data analysis projects.
 This project analyse and visualize the call types and the frequencies of all types of emergencies for example fire, medical or even traffic.
